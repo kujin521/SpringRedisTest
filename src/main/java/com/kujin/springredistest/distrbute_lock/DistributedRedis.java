@@ -1,9 +1,7 @@
 package com.kujin.springredistest.distrbute_lock;
 
-import com.kujin.springredistest.jedis.util.CllWithJedis;
-import com.kujin.springredistest.jedis.util.Redis;
+import com.kujin.springredistest.util.Redis;
 import org.junit.Test;
-import redis.clients.jedis.Jedis;
 import redis.clients.jedis.params.SetParams;
 
 /**

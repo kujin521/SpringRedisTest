@@ -1,7 +1,7 @@
 package com.kujin.springredistest.redis.redis_lua;
 
-import com.kujin.springredistest.Utils;
-import com.kujin.springredistest.jedis.util.Redis;
+import com.kujin.springredistest.util.Utils;
+import com.kujin.springredistest.util.Redis;
 import com.kujin.springredistest.pojo.Role;
 import org.junit.Test;
 import org.springframework.data.redis.core.RedisTemplate;

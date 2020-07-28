@@ -1,8 +1,6 @@
 package com.kujin.springredistest.redis.redis_queue;
 
-import com.kujin.springredistest.jedis.util.CllWithJedis;
-import com.kujin.springredistest.jedis.util.Redis;
-import redis.clients.jedis.Jedis;
+import com.kujin.springredistest.util.Redis;
 
 /**
  * 类：延迟消息测试

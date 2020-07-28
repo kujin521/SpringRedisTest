@@ -1,4 +1,4 @@
-package com.kujin.springredistest.jedis.util;
+package com.kujin.springredistest.util;
 
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
 import redis.clients.jedis.Jedis;

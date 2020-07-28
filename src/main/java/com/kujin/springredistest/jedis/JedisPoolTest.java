@@ -1,7 +1,7 @@
 package com.kujin.springredistest.jedis;
 
 
-import com.kujin.springredistest.jedis.util.Redis;
+import com.kujin.springredistest.util.Redis;
 
 /**
  * 类：使用连接池

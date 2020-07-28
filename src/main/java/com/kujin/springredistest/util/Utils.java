@@ -1,4 +1,4 @@
-package com.kujin.springredistest;
+package com.kujin.springredistest.util;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
